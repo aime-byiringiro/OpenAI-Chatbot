@@ -1,2 +1,2 @@
 # OpenAI-Chatbot
-This repository is for OpeanAI APis learning purposes
+This repository is for OpeanAI APIs learning purposes
